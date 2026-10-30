@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-slide-layout-auto-rebalancer-skill",
+  "version": "1.0.0",
+  "description": "Presentation slide layout AST rebalancer adjusting element coordinates and preventing overlaps",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "rebalance_slide_layout"
+    ]
+  }
+}
